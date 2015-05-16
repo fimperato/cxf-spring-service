@@ -1,0 +1,5 @@
+demo\spring\service\interceptors\BodyInterceptor.class
+demo\spring\service\HelloWorld.class
+demo\spring\service\interceptors\BasicAuthAuthorizationInterceptor.class
+demo\spring\service\HelloWorldImpl.class
+demo\spring\service\interceptors\LogInterceptor.class
